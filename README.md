@@ -1,5 +1,6 @@
 ## 🚀 Hagos Guilherme
-Formado em Sistemas de Informação, possuo conhecimento nas linguagens Python, onde desenvolvi um artigo cientifico com o tema de reconhecimento de imagense C#, onde aprendi base de.net, Entity framework durante meu período em estágio. 
+Formado em Sistemas de Informação, possuo conhecimento nas linguagens Python, onde desenvolvi um artigo cientifico com o tema de reconhecimento de imagens, com frameworks como Keras e TensorFlow, C#, onde aprendi base de.net, utilizando Entity framework durante meu período em estágio. 
+Neste Github se encontram também estudos voltados a area de análise de dados, utilizando bibliotecas como Pandas.
 
 
 ## Referência
